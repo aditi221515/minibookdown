@@ -1,1 +1,7 @@
+# Conclusion
 
+We have finished writing a nice book!
+
+This book will serve as a great guide to data analysts. 
+
+This book is also an excellent guide on R programming. 
