@@ -2,7 +2,3 @@ create-your-open-textbook
 inroduction-to-data-analysis-with-r
 documentation
 methods
-applications
-example-1
-example-2
-example-3
