@@ -1,1 +1,12 @@
+# Applications
 
+Some **significant** applications of R are demonstrated in this chapter.
+These applications are explained with the help of examples.
+
+### Example 1
+
+
+### Example 2 
+
+
+### Example 3
