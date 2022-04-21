@@ -1,1 +1,5 @@
+# Methods
 
+Methods of R programming are explained in this chapter. 
+
+Types of R programming are also explained in detail in this chapter. 
