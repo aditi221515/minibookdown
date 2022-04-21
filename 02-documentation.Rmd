@@ -1,1 +1,6 @@
+# Documentation
+
+This chapter provides documentation on data analysis.
+
+The types and methods of data analysis are also explained in this chapter.
 
